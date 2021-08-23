@@ -1,0 +1,40 @@
+node js -- is a backend java script framework 
+
+
+Node.js is an open-source, cross-platform, back-end JavaScript runtime environment
+that runs on the V8 engine and executes JavaScript code outside a web browser.
+
+
+JavaScript => engine 
+
+chrome --> V8
+ie --> chakra
+firefox - sprider monkey 
+
+
+node--> c++ V8 --> backend --> js can be executed on backend side 
+
+
+nodeJS --> JavaScript --> .js 
+
+
+every js file in node is module --
+
+
+pacakge/module ---> npmjs 
+
+npm --> node pacakge manager 
+
+
+-------------------------------
+
+express >
+
+how to use express in node? 
+        1) install express ? 
+                npm install express 
+        2) server ? 
+            
+        3) routes ?
+
+
