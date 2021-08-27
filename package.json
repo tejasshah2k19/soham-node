@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^2.0.12",
     "underscore": "^1.13.1",
     "validator": "^13.6.0"
   }
